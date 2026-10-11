@@ -115,8 +115,6 @@ https://github.com/user-attachments/assets/b665d434-1c52-4f4b-ba4b-25cafcd65ed4
 
 ## 👥 Team
 
-_Add your team members’ names here._
+ABBHIRAMIE AJAYAN and GAYATHRI UM
 
-## 📄 License
 
-_Add a license if you want (MIT is a common choice for student projects)._
