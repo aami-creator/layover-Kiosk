@@ -9,7 +9,7 @@ Built on an **ESP32 (MYOSA board)** with an OLED screen, 3 status LEDs, a buzzer
      drag-and-drop your demo video right here, then commit. GitHub will
      insert a video link automatically. (Or paste a YouTube link.) -->
 
-> 🎥 **Demo video:** _add your video here_
+> 🎥 **Demo video:** 
 
 
 
@@ -103,18 +103,7 @@ https://github.com/user-attachments/assets/b665d434-1c52-4f4b-ba4b-25cafcd65ed4
 
 ---
 
-## 🖨️ 3D-printed enclosure
 
-Files are in [`enclosure/`](enclosure/):
-
-| File | Part |
-|---|---|
-| `kiosk_lid.stl` | Top panel — OLED window, 3 LED holes, 2 button holes, pot hole |
-| `kiosk_base.stl` | Box (≈115 × 85 × 37 mm) with USB-C cable opening |
-| `kiosk_knob.stl` | Knob for the potentiometer |
-| `dxb_kiosk_enclosure.scad` | Editable OpenSCAD source — change sizes at the top |
-
-Print in PLA, 0.2 mm layers, 20 % infill, no supports.
 
 ---
 
